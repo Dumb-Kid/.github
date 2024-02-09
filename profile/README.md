@@ -1,5 +1,8 @@
 ## Dumb Kid
 
+
+![Logo](![dumb kid PNG Banner](https://github.com/Dumb-Kid/.github/assets/117063787/f193b061-c76c-445a-bfe3-1c3d530886dd)
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
